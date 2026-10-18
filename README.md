@@ -1,4 +1,4 @@
-# First_CI_Pipeline
+# AbhishekThakur_CI_Project
 
 A small Python CI project for assignment 4, built with GitHub Actions and pytest.
 
